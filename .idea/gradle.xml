@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -7,8 +8,8 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="/var/home/arcostatic/Documents/Projects/GeekHub/Geekhub" />
+            <option value="/var/home/arcostatic/Documents/Projects/GeekHub/Geekhub/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
