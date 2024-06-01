@@ -25,6 +25,10 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun LoginScreen() {
 
+    /**
+     * Trying comits from linux to windows
+     */
+
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
